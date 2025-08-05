@@ -29,7 +29,7 @@ src/
 ### 1. Clone the Repository
 
 bash
-git clone https://github.com/gaurav9689/todo-app.git
+git clone [https://github.com/gaurav9689/todo-app.git](https://github.com/gaurav9689/Todo_list_React.git)
 cd todo-app
 
 ## Install Dependencies
